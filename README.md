@@ -11,3 +11,8 @@
 # 注意事项
 
 在使用时 output_file_path.js 一定要与目标文件夹同级存放。
+
+# 输出文件
+输出文件为一个text 文件 （file_name_json.text）
+
+格式： [{"src":"./images/child_dir/pic1.png","id":"file0"},{"src":"./images/child_dir/pic2.png","id":"file1"},{"src":"./images/pic1.png","id":"file2"},{"src":"./images/pic2.png","id":"file3"},{"src":"./js/jquery.min.js","id":"file4"},{"src":"./js/preloadjs.min.js","id":"file5"}] 
