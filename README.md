@@ -16,3 +16,5 @@
 输出文件为一个text 文件 （file_name_json.text）
 
 格式： [{"src":"./images/child_dir/pic1.png","id":"file0"},{"src":"./images/child_dir/pic2.png","id":"file1"},{"src":"./images/pic1.png","id":"file2"},{"src":"./images/pic2.png","id":"file3"},{"src":"./js/jquery.min.js","id":"file4"},{"src":"./js/preloadjs.min.js","id":"file5"}] 
+
+可以直接作为 preload.js 预加载文件列表使用
